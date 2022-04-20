@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrich712
 - 👀 I’m interested in crypto and python
-- 🌱 I’m currently learning python, english, c++
+- 🌱 I’m currently learning python, English, c++
 - 💞️ I’m looking to collaborate on @revoxhere
 - 📫 How to reach me t.me/willbehappy0
 
